@@ -2,11 +2,13 @@
 
 ## **Resources**
 
-### **Advanced R** by Hadley Wickham  
-  [https://adv-r.hadley.nz/](https://adv-r.hadley.nz/)  
-
-### **R for Data Science** by Garrett Grolemund and Hadley Wickham  
+### **R for Data Science** 
+  By Garrett Grolemund and Hadley Wickham  
   [https://r4ds.had.co.nz/](https://r4ds.had.co.nz/)  
+
+### **Advanced R** 
+  By Hadley Wickham  
+  [https://adv-r.hadley.nz/](https://adv-r.hadley.nz/)  
 
 ### **R Projects**
 - For more about R projects, read Chapter 8 of *R for Data Science*:  
