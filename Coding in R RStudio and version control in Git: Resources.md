@@ -3,17 +3,18 @@
 ## **Resources**
 
 ### **Books**
-- **R for Data Science** by Garrett Grolemund and Hadley Wickham:  
-  [https://r4ds.had.co.nz/](https://r4ds.had.co.nz/)  
-- **Advanced R** by Hadley Wickham:  
+- **Advanced R** by Hadley Wickham  
   [https://adv-r.hadley.nz/](https://adv-r.hadley.nz/)  
 
+- **R for Data Science** by Garrett Grolemund and Hadley Wickham  
+  [https://r4ds.had.co.nz/](https://r4ds.had.co.nz/)  
+
 ### **R Projects**
-- Learn more about R projects in Chapter 8 of *R for Data Science*:  
+- For more about R projects, read Chapter 8 of *R for Data Science*:  
   [https://r4ds.had.co.nz/workflow-projects.html](https://r4ds.had.co.nz/workflow-projects.html)
 
 ### **Naming**
-- Jenny Bryan's *Naming Slides* (p.14):  
+- *Naming Slides* by Jenny Bryan (p.14):  
   [https://www2.stat.duke.edu/~rcs46/lectures_2015/01-markdown-git/slides/naming-slides/naming-slides.pdf](https://www2.stat.duke.edu/~rcs46/lectures_2015/01-markdown-git/slides/naming-slides/naming-slides.pdf)
 
 ### **Version Control Concepts and Best Practices**
@@ -22,6 +23,9 @@
 
 - *Code and Data for the Social Sciences: A Practitioner's Guide*:  
   [https://web.stanford.edu/~gentzkow/research/CodeAndData.xhtml#magicparlabel-20](https://web.stanford.edu/~gentzkow/research/CodeAndData.xhtml#magicparlabel-20)  
+
+- **RStudio User Guide**:  
+  [https://docs.posit.co/ide/user/ide/guide/code/code-sections.html](https://docs.posit.co/ide/user/ide/guide/code/code-sections.html)
 
 ### **Git**
 - **Learn Git Branching (Interactive)**:  
@@ -55,4 +59,5 @@
 
 - **`furrr`**:  
   [https://furrr.futureverse.org/](https://furrr.futureverse.org/)  
+
 
