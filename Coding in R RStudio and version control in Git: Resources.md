@@ -8,7 +8,7 @@
 
 ### *Code and Data for the Social Sciences: A Practitioner's Guide*  
 - By Matthew Gentzkow, Jesse M. Shapiro
-  [https://web.stanford.edu/~gentzkow/research/CodeAndData.xhtml#magicparlabel-20](https://web.stanford.edu/~gentzkow/research/CodeAndData.xhtml#magicparlabel-20)
+ [https://web.stanford.edu/~gentzkow/research/CodeAndData.xhtml#magicparlabel-20](https://web.stanford.edu/~gentzkow/research/CodeAndData.xhtml#magicparlabel-20)
   
 ### **R Projects**
 - For more about R projects, read Chapter 8 of *R for Data Science*  
