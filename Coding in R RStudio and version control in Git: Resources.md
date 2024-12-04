@@ -2,20 +2,19 @@
 
 ## **Resources**
 
-### **Books**
-- **Advanced R** by Hadley Wickham  
+### **Advanced R** by Hadley Wickham  
   [https://adv-r.hadley.nz/](https://adv-r.hadley.nz/)  
 
-- **R for Data Science** by Garrett Grolemund and Hadley Wickham  
+### **R for Data Science** by Garrett Grolemund and Hadley Wickham  
   [https://r4ds.had.co.nz/](https://r4ds.had.co.nz/)  
-
-### **RStudio User Guide**  
-- RStudio User Guide Code Sections:
- [https://docs.posit.co/ide/user/ide/guide/code/code-sections.html](https://docs.posit.co/ide/user/ide/guide/code/code-sections.html)
 
 ### **R Projects**
 - For more about R projects, read Chapter 8 of *R for Data Science*:  
   [https://r4ds.had.co.nz/workflow-projects.html](https://r4ds.had.co.nz/workflow-projects.html)
+
+### **RStudio User Guide**  
+- RStudio User Guide Code Sections:
+ [https://docs.posit.co/ide/user/ide/guide/code/code-sections.html](https://docs.posit.co/ide/user/ide/guide/code/code-sections.html)
 
 ### **Naming**
 - *Naming Slides* by Jenny Bryan (p.14):  
