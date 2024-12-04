@@ -3,11 +3,11 @@
 ## **Resources**
 
 ### **R for Data Science** 
-  By Garrett Grolemund and Hadley Wickham  
+- By Garrett Grolemund and Hadley Wickham  
   [https://r4ds.had.co.nz/](https://r4ds.had.co.nz/)  
 
 ### **Advanced R** 
-  By Hadley Wickham  
+- By Hadley Wickham  
   [https://adv-r.hadley.nz/](https://adv-r.hadley.nz/)  
 
 ### **R Projects**
