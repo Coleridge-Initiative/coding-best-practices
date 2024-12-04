@@ -17,15 +17,16 @@
 - *Naming Slides* by Jenny Bryan (p.14):  
   [https://www2.stat.duke.edu/~rcs46/lectures_2015/01-markdown-git/slides/naming-slides/naming-slides.pdf](https://www2.stat.duke.edu/~rcs46/lectures_2015/01-markdown-git/slides/naming-slides/naming-slides.pdf)
 
+### **RStudio User Guide**  
+- RStudio User Guide Code Sections:
+ [https://docs.posit.co/ide/user/ide/guide/code/code-sections.html](https://docs.posit.co/ide/user/ide/guide/code/code-sections.html)
+  
 ### **Version Control Concepts and Best Practices**
 - *Version Control Advice and Best Practices* by Michael Ernst:  
   [https://homes.cs.washington.edu/~mernst/advice/version-control.html](https://homes.cs.washington.edu/~mernst/advice/version-control.html)  
 
 - *Code and Data for the Social Sciences: A Practitioner's Guide*:  
   [https://web.stanford.edu/~gentzkow/research/CodeAndData.xhtml#magicparlabel-20](https://web.stanford.edu/~gentzkow/research/CodeAndData.xhtml#magicparlabel-20)  
-
-- **RStudio User Guide**:  
-  [https://docs.posit.co/ide/user/ide/guide/code/code-sections.html](https://docs.posit.co/ide/user/ide/guide/code/code-sections.html)
 
 ### **Git**
 - **Learn Git Branching (Interactive)**:  
