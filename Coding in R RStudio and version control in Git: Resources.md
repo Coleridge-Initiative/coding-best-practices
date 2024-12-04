@@ -19,7 +19,7 @@
  [https://docs.posit.co/ide/user/ide/guide/code/code-sections.html](https://docs.posit.co/ide/user/ide/guide/code/code-sections.html)
 
 ### **Naming**
-- *Naming Slides* by Jenny Bryan (p.14):  
+- By Jenny Bryan (p.14):  
   [https://www2.stat.duke.edu/~rcs46/lectures_2015/01-markdown-git/slides/naming-slides/naming-slides.pdf](https://www2.stat.duke.edu/~rcs46/lectures_2015/01-markdown-git/slides/naming-slides/naming-slides.pdf)
   
 ### **Version Control Concepts and Best Practices**
