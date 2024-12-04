@@ -3,31 +3,32 @@
 ## **Resources**
 
 ### **R for Data Science** 
-- By Garrett Grolemund and Hadley Wickham  
+- By Garrett Grolemund, Hadley Wickham  
   [https://r4ds.had.co.nz/](https://r4ds.had.co.nz/)  
 
-### **Advanced R** 
-- By Hadley Wickham  
-  [https://adv-r.hadley.nz/](https://adv-r.hadley.nz/)  
-
+### *Code and Data for the Social Sciences: A Practitioner's Guide*  
+- By Matthew Gentzkow, Jesse M. Shapiro
+  [https://web.stanford.edu/~gentzkow/research/CodeAndData.xhtml#magicparlabel-20](https://web.stanford.edu/~gentzkow/research/CodeAndData.xhtml#magicparlabel-20)
+  
 ### **R Projects**
-- For more about R projects, read Chapter 8 of *R for Data Science*:  
+- For more about R projects, read Chapter 8 of *R for Data Science*  
   [https://r4ds.had.co.nz/workflow-projects.html](https://r4ds.had.co.nz/workflow-projects.html)
 
 ### **RStudio User Guide**  
-- RStudio User Guide Code Sections:
+- RStudio User Guide Code Sections
  [https://docs.posit.co/ide/user/ide/guide/code/code-sections.html](https://docs.posit.co/ide/user/ide/guide/code/code-sections.html)
 
 ### **Naming**
-- By Jenny Bryan (p.14):  
+- By Jenny Bryan (p.14)  
   [https://www2.stat.duke.edu/~rcs46/lectures_2015/01-markdown-git/slides/naming-slides/naming-slides.pdf](https://www2.stat.duke.edu/~rcs46/lectures_2015/01-markdown-git/slides/naming-slides/naming-slides.pdf)
-  
-### **Version Control Concepts and Best Practices**
-- *Version Control Advice and Best Practices* by Michael Ernst:  
-  [https://homes.cs.washington.edu/~mernst/advice/version-control.html](https://homes.cs.washington.edu/~mernst/advice/version-control.html)  
 
-- *Code and Data for the Social Sciences: A Practitioner's Guide*:  
-  [https://web.stanford.edu/~gentzkow/research/CodeAndData.xhtml#magicparlabel-20](https://web.stanford.edu/~gentzkow/research/CodeAndData.xhtml#magicparlabel-20)  
+### **Advanced R** 
+- By Hadley Wickham  
+  [https://adv-r.hadley.nz/](https://adv-r.hadley.nz/)
+  
+### **Version Control Advice and Best Practices**
+- By Michael Ernst  
+  [https://homes.cs.washington.edu/~mernst/advice/version-control.html](https://homes.cs.washington.edu/~mernst/advice/version-control.html)  
 
 ### **Git**
 - **Learn Git Branching (Interactive)**:  
