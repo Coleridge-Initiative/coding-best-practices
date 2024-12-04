@@ -84,17 +84,16 @@ A clear project structure ensures workflow clarity and reproducibility in analyt
 - Use a `docs/` folder for project documentation.
 - Maintain logical organization for easy understanding and collaboration.
 
-### **Directory Layout**
-project/ 
-├── data/ 
-│ ├── raw/ # Original, unaltered datasets 
-│ └── processed/ # Cleaned, processed datasets 
-├── src_code/ # Core, clean, finalized codebase 
-├── code_explore/ # Exploration and prototyping code 
-├── tests/ # Unit tests for src_code 
-├── docs/ # Project documentation 
-├── outputs/ # Generated outputs (reports, visuals) 
-└── README.md # High-level project overview
+### **Directory Layout: Example**
+project-name/
+│
+├── data/           # Data directory (raw and processed data)
+├── src_code/       # Core source code
+├── code_explore/   # Jupyter notebooks, R Markdown for exploration, reporting
+├── tests/          # Test scripts
+├── docs/           # Documentation (user guide, reference, etc.)
+├── outputs/        # Generated reports, visualizations, dashboards
+└── README.md       # Project overview (goals, configuration requirements)
 
 ### **README.md Contents**
 - Description of project goals.
