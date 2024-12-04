@@ -1,0 +1,23 @@
+# Resources
+
+- R projects
+For more about R projects, read chapter 8 of “R for Data Science” 
+https://r4ds.had.co.nz/workflow-projects.html 
+- Naming 
+Jenny Bryan, Naming Slides, p.14  https://www2.stat.duke.edu/~rcs46/lectures_2015/01-markdown-git/slides/naming-slides/naming-slides.pdf 
+- Version control concepts and best practices
+https://homes.cs.washington.edu/~mernst/advice/version-control.html  
+- Code and Data for the Social Sciences: A Practitioner's Guide
+https://web.stanford.edu/~gentzkow/research/CodeAndData.xhtml#magicparlabel-20 
+- Git
+Learn Git Branching (Pretty and interactive)
+Pro Git (Comprehensive)
+Git Magic (Also comprehensive, but less so) 
+- Packages mentioned: 
+Dbplyr
+Tidyverse Style Guide 
+https://style.tidyverse.org/files.html 
+Targets
+Here
+Janitor
+Furrr
